@@ -1,8 +1,7 @@
 'use client';
 import { Button } from "@/components/button";
 import { Input } from "@/components/input";
-import { useChat, useCompletion } from "@ai-sdk/react";
-import { ThemeToggle } from "@/components/theme-toggle";
+import { useCompletion } from "@ai-sdk/react";
 import { Streamdown } from "streamdown";
 import React from "react";
 
